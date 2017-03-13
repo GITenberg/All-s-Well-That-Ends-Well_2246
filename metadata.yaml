@@ -1,5 +1,8 @@
 _repo: All-s-Well-That-Ends-Well_2246
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Shakespeare, William
@@ -15,6 +18,8 @@ description: Helena is an orphan in the care of the Countess of Roussillon. She 
   Bertram, the Countess' son but he's of noble birth and she's the daughter of a doctor.
   The King of France falls ill while Bertram is at the court and Helena's cure wins
   her the right to marry Bertram.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2246#All-s-Well-That-Ends-Well
 gutenberg_issued: '2000-07-01'
 gutenberg_type: Text
 identifiers:
